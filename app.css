@@ -1,0 +1,72 @@
+body{
+	background-color: white;
+}
+
+
+.phone-email{
+	width: 90%;
+	height: 30px;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-color: green;
+}
+
+.butn{
+	width: 20%;
+	height: 40px;
+	background-color: green;
+	color: white;
+	border: none;
+	font-size: 15px;
+	border-radius: 5px;
+}
+
+
+.butn-red{
+	width: 20%;
+	height: 40px;
+	background-color: red;
+	color: white;
+	border: none;
+	font-size: 15px;
+	border-radius: 5px;
+}
+
+
+.console-screen{
+	background-color: black;
+	width: 100%;
+	color: white;
+	height: 300px;
+}
+
+
+textarea{
+	background-color: black;
+	width: 99%;
+	height: 300px;
+	border: none;
+	color: red;
+
+}
+
+
+#dc{
+	display: none;
+
+}
+
+.fl{
+	width: 60%;
+	height: 40px;
+}
+
+.fl1{
+	background-color: green;
+	color: white;
+	border: none;
+	width: 64%;
+	height: 44px;
+	border-radius: 20px;
+}
